@@ -3,7 +3,7 @@
 We were trying to help the company to create a multiple-line graph that shows the total weekly fares for each city type by using knowledge of Python and Pandas. In the end, we created a ride sharing summary dataframe by citytype and a multiple line chart of total fares for each city type.
 
 ## Results
-![This is an image]()
+![This is an image](https://github.com/sherryli1116/PyBer_Analysis/blob/main/Resources/Pyber%20summary%20dataframe.png)
 ### Pyber summary dataframe:
 In general, urban had the most drivers and also total rides among the city types, which was probably because people who live in cities tend to call rides more often because of convenience. However, those who live in less prosperous cities tend to drive by themselves and also because they need to spend more to call a cab than those who live in cities. 
 - Rural had 125 total rides, suburban had 625 rides, and urban had 1625 rides which was the most among the city types
