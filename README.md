@@ -18,4 +18,4 @@ In general, urban had the most drivers and also total rides among the city types
 - Suburban had a decline in total fares and reached its least amount around early April.
 - Rural had a steady increase in general, and reached its greatest amount in total fares in early April.
 ## Summary
-In general, from our analysis above we 
+In general, from our analysis above we could recommend the CEO to continue expand the market in urban area, since the area has generated the most amounto f average fares comparing to the other city types. In addition, we could also see an increase of fares in the rural area. However, we had only a small amount of drivers in the area, therefore we could increase the number of drivers by offering them greater share of the commission. Also, from February till March is a good time we put into more efforts in exlporing the business because people had a greater quantity demand for car rides in this period of time.
